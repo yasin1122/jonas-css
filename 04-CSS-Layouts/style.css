@@ -348,3 +348,16 @@ footer {
   font-weight: normal;
   font-style: italic;
 }
+
+.row {
+  display: flex;
+  gap: 75px;
+}
+
+article {
+  flex: 0 0 825px;
+}
+
+aside {
+  flex: 0 0 300px;
+}
