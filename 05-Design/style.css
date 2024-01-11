@@ -220,4 +220,5 @@ footer {
   color: #495057;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
